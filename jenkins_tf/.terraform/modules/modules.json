@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"setup-jenkins-vm","Source":"gcs::https://www.googleapis.com/storage/v1/deloitte-training/terraform","Dir":".terraform/modules/setup-jenkins-vm"}]}
